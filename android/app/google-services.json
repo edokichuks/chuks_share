@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490033212599",
+    "project_id": "chuksshare",
+    "storage_bucket": "chuksshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490033212599:android:46451de96ec64c92393132",
+        "android_client_info": {
+          "package_name": "com.example.chuks_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490033212599-0vmpig8nvki25eue2e4tfpcvjos7offr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chuks_share",
+            "certificate_hash": "2759d13492b364ccae0dee1fb02b7c16d05e5893"
+          }
+        },
+        {
+          "client_id": "490033212599-aotl2meur3jni6eellqg61evca0pik12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBAjA1TJ2dmCSMjXyrP-uxCQUQqMS6yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490033212599-aotl2meur3jni6eellqg61evca0pik12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
